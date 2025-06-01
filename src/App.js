@@ -8,7 +8,7 @@ function App() {
         <h1>
           HELLO WORLD 
         </h1>
-        I just just completed the weekly task.
+        I just completed the weekly task.
       </div>
   
   );
